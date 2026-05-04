@@ -26,7 +26,7 @@ function App() {
               Fully insured · New England
             </div>
 
-            <img className="brandLogo" src="/brevdo-works-logo.jpg" alt="Brevdo Works logo" />
+            <h1>Brevdo Works</h1>
 
             <p className="heroLead">
               Reliable handyman and installation services for homes, condos, rental properties, patios and outdoor projects across New England.
